@@ -33,5 +33,7 @@ document.getElementById("principal").focus();
 document.getElementById("result").innerHTML="";
 return false;
 }
+else{
 return true;
+}
 }
