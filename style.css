@@ -5,6 +5,7 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
     width: 45%;
+    height: 45vh;
     color:black;
     padding: 20px;
     border-radius: 25px;
