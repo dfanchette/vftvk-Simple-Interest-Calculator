@@ -30,7 +30,9 @@ table{
 }
 
 @-ms-viewport{
+  .maindiv {
   width: device-width;
+  }
 }
 
 
