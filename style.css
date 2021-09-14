@@ -29,6 +29,11 @@ table{
   margin: 0 auto;
 }
 
+@-ms-viewport{
+  width: device-width;
+}
+
+
 /*@media screen and (max-width: 480px) {
   #principal, #rate {
     width: 10px;
