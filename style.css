@@ -1,28 +1,38 @@
-body {background-color:black;font-family:arial;color:white}
+body {
+  background-color:black;
+  font-family:arial;
+  color:white
+  }
 
-h1{color:grey;font-family:verdana}
+h1 {
+  color:grey;
+  font-family:verdana;
+  text-align: center;
+  }
 
 .maindiv {
     background-color:white;
-    width: 45%;
-    height: 45vh;
+    width: 55%;
+    height: 60vh;
     color:black;
     padding: 20px;
     border-radius: 25px;
-    align-content:center;
     margin: 0 auto;
 }
 
+td {
+  padding-bottom: 0.5rem;
+}
 
-/*.maindiv label { 
-        display: inline-block;
-        text-align: left;
-        float: left;}
-        
- #principal, #rate, #years{
-     display: inline-block;
-        float: right;
-        margin-left: 25%;
-        margin-bottom: 20px;
-           }
-*/
+table{
+  margin: 0 auto;
+}
+
+/*label, input, button {
+ margin-left: 1rem;
+ margin-top: 0.5rem;
+}
+
+ #principal, #rate, #years {
+ margin-left: 4rem;
+}*/
