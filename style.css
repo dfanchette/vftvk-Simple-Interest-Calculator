@@ -29,14 +29,12 @@ table{
   margin: 0 auto;
 }
 
-/*@media screen and (max-width: 600px) {
-  td, .maindiv {
-    width: 60%;
-    height: 45%;
-    margin-top: 0;
+@media screen and (max-width: 480px) {
+  td, {
+    width: 20%;
   }
 }
-*/
+
 
 /*label, input, button {
  margin-left: 1rem;
