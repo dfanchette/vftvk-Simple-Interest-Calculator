@@ -31,7 +31,7 @@ table{
 
 @media screen and (max-width: 480px) {
   #principal, #rate {
-    width: 20%;
+    width: 10px;
   }
 }
 
