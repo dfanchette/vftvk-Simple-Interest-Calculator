@@ -29,11 +29,11 @@ table{
   margin: 0 auto;
 }
 
-@media screen and (max-width: 480px) {
+/*@media screen and (max-width: 480px) {
   #principal, #rate {
     width: 10px;
   }
-}
+}*/
 
 
 /*label, input, button {
